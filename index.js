@@ -1,2 +1,4 @@
 
-alert('hello script');
+// alert('hello script');
+
+document.querySelector("h1").innerHTML = "Good Bye.";
